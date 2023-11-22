@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    border:solid;
+    text-align: center;
+    margin-left:25%;
+    margin-top: 10%;
+    background-color:lightsalmon;
+    border-radius: 15px;
+    justify-content: center;
+    width:50%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+} 
+
+input{
+    width:50%;
+    height:50px;
+    text-align: center;
+    border-radius: 12%;
+}
+
+.btn{
+        
+    width:20%;
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+
